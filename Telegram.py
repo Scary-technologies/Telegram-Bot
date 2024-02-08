@@ -9,9 +9,9 @@ with open('Token.txt', 'r') as file:
 # اطلاعات اتصال به بانک اطلاعاتی MySQL
 db_config = {
     'host': 'localhost',
-    'user': 'py',
-    'password': '6JZSibCH6EyPhuR',
-    'database': 'Telegram',
+    'user': 'User_DB',
+    'password': 'Password_DB',
+    'database': 'Name_DB',
 }
 
 # اتصال به بانک اطلاعاتی
